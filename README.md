@@ -22,7 +22,7 @@ The details of this project can be found in the [poster](poster.pdf).
   - PTB Transfer Model Ensemble.ipynb - Experiment with the final ensemble for PTB. This file must be run after PTB Transfer Models.ipynb and Supervised Preprocessing.ipynb
 
 ## Instruction
-To run the preprocessing, you must include the following csv files from [Kaggle](https://www.kaggle.com/shayanfazeli/heartbeat) in the "/data" directory:
+To run the preprocessing, you must make data directory and include the following csv files from [Kaggle](https://www.kaggle.com/shayanfazeli/heartbeat):
 -	mitbih_test.csv
 -	mitbih_train.csv
 -	ptbdb_abnormal.csv
